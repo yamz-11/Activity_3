@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activity_3</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="data_login">Data Login</string>
+    <string name="tnama">Nama :</string>
+    <string name="txnama">Ini adalah nama</string>
+    <string name="tpassword">Password :</string>
+    <string name="txpassword">Ini adalah Password</string>
+    <string name="password">Password :</string>
+    <string name="nama">Nama :</string>
+</resources>
